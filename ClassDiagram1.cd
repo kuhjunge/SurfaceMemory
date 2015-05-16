@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SurfaceMemory.App">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.MemoryImage">
+    <Position X="8.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAAABAAAAAAGAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bild.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.SurfaceMemoryCard">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAEAAIAAAAEEAAAAAAAAAAAQAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>Karte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.MemoryProberty">
+    <Position X="13.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQAEAEMGAMAACA4AQAAAAAAAHkAAAiABAUIQgkQAAEA=</HashCode>
+      <FileName>MemoryProberty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.SurfaceWindow1">
+    <Position X="2.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAAAAEACACQAIAIgACAAAAAFAAgAAAAAAAAA=</HashCode>
+      <FileName>SurfaceWindow1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.GameMenu">
+    <Position X="5.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>wAEAAAACAAAAQAAAISAQACAAAAAAAEEEAAQAAgBAAAA=</HashCode>
+      <FileName>MemoryMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SurfaceMemory.Game">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AkAEAAAAAAACAAEAVIAAIAACAAEKAAAUBAAAACgAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
