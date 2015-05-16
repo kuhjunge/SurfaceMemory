@@ -1,2 +1,6 @@
 # SurfaceMemory
-FH Lübeck, Usability Praktikum WS14/15
+FH Lübeck, Usability Praktikum WS14/15 
+
+Wir haben uns für unser Usability Projekt “Touch Memory” entschieden, da uns bei der Projektvorstellung die Erstellung einer Software für den Multi-Touch Tisches am meisten reizte. Mit diesem Multi-Touch Tisch wollten wir die Möglichkeiten von modernen Usability Aspekten auf dem sehr zukunftsfähigen Feld der Touch Anwendungen erkunden und dort erste Erfahrungen sammeln. Außerdem wollten wir sehen, was die aktuelle Hardware und die zugehörigen Entwicklungsumgebungen, in diesem Falle die des Samsung SUR 40 mit Visual Studio, uns für gestalterische Möglichkeiten bieten. Wir entschieden uns für das Spiel Memory, da dieses ein relativ einfach umzusetzendes Spielprinzip besaß und trotzdem ein relativ großen Spaßfaktor bietet. Außerdem war dieses Spielprinzip leicht um einige Aspekte, wie Multiplayerfähigkeit und Wettkampf erweiterbar, weshalb wir auch noch einiges an Kreativität in unserem Projekt einfließen lassen konnten. Zudem wurde uns so die Möglichkeit geboten, eine erste Pionier Anwendung auf dem Multi-Touch Tisch zu entwickeln, die es ermöglicht die Funktion des Tisches, für zukünftigen Präsentationen des Usability Labors, vorzuführen.
+
+
